@@ -7,7 +7,7 @@ slideOptions:
 JuliaTokai \#15
 ===
 
-2023/06/24
+2023/06/25
 
 ---
 
