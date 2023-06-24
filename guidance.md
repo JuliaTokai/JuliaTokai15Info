@@ -53,7 +53,7 @@ Note:
 
 ## 本日の発表
 
-+ 
++ [PythonCall.jl 周りのお話](https://terasakisatoshi.github.io/Cerastes.jl)
 
 ---
 
