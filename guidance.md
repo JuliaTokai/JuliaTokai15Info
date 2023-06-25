@@ -55,6 +55,7 @@ Note:
 
 + [PythonCall.jl 周りのお話](https://terasakisatoshi.github.io/Cerastes.jl)
 + antimon2: Julia でモジュールプログラミング（初歩の初歩）
++ hyrodium: [IntervalSets.jlの話](https://hackmd.io/@hyrodium/HkrRC7ru3#/1)
 + …
 
 ---
