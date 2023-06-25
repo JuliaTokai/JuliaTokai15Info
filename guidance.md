@@ -53,6 +53,7 @@ Note:
 
 ## 本日の発表
 
++ [PythonCall.jl 周りのお話](https://terasakisatoshi.github.io/Cerastes.jl)
 + antimon2: Julia でモジュールプログラミング（初歩の初歩）
 + …
 
